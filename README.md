@@ -21,7 +21,7 @@ back and forth when hits the end of the window, and when the circle its hover by
 - On the html file, right click and click on "opem in default browser"
 
 ## Future Improvements
-create some sort of algorithm that will generate and x amounth of circles depending of the size of the window.
-add some music.
+- create some sort of algorithm that will generate and x amounth of circles depending of the size of the window.
+- add some music.
 
 
