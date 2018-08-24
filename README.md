@@ -3,7 +3,7 @@
 https://robydoidao2006.github.io/canvas-circle-motion/.
 
 ## What the Project looks like
-![](circle.jpg)
+![](circles.jpg)
 
 ## Aditional Information
 - This project is using a html5 tag called "canvas", The projects will display a set amount of animated circles, that bounces 
